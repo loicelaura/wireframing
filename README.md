@@ -11,6 +11,8 @@ Importance in the Design Process
  Foundation for Visual Design.
  Faster Development.
 
+ Types of Wireframes:  we have low-fidelity and high-fidelity wireframes 
+
  key elements found in a wireframe
 
 1. Layout Structure
